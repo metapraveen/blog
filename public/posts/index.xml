@@ -1,0 +1,53 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Praveen</title>
+        <link>https://metapraveen.github.io/posts/</link>
+        <description>Recent content in Posts on Praveen</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 19 Aug 2023 12:55:13 +0200</lastBuildDate>
+        <atom:link href="https://metapraveen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Macro Management</title>
+            <link>https://metapraveen.github.io/posts/macro-management/</link>
+            <pubDate>Sat, 19 Aug 2023 12:55:13 +0200</pubDate>
+            
+            <guid>https://metapraveen.github.io/posts/macro-management/</guid>
+            <description>At my current org work culture is nice and I have seen hardly anyone left in my team in last 4 years. One of the reason for this is the management style which I call macro management. I am trying to write down what is it and how it works.
+The goal of macro management is below
+Creating a non interruptive environment where people can do deep work which they enjoy.</description>
+            <content type="html"><![CDATA[<p>At my current org work culture is nice and I have seen hardly anyone left in my team in last 4 years.
+One of the reason for this is the management style which I call macro management.
+I am trying to write down what is it and how it works.</p>
+<p>The goal of macro management is below</p>
+<ul>
+<li>Creating a non interruptive environment where people can do deep work which they enjoy.</li>
+<li>Enable autonomy so people can take most of the decision they need themselves.</li>
+<li>Build transparency so everyone know which direction we are heading.</li>
+</ul>
+<p>Below are the things leads/managers DONT do</p>
+<ul>
+<li>Asking for an update</li>
+<li>Creating agenda less meetings</li>
+<li>Telling what to do or how to do</li>
+</ul>
+<p>Instead these are the things they do</p>
+<ul>
+<li>Have a very good onboarding setup for new people, let them know the nuances in the system so they feel confident to make the changes</li>
+<li>Making all process transparent so everyone&rsquo;s work is visible, this avoids asking for udpates and daily stand ups</li>
+<li>Minimal meetings and lean process. Meetings are recorded so people can skip them if they want</li>
+<li>All the communication happens in open slack channels, so people know the reasons behind the decisions.</li>
+<li>Regular 1:1 so there is space to discuss/share things</li>
+<li>Leading by example of doing higher quality of work</li>
+<li>No blame culture, when things go wrong focus is on what went wrong and how to prevent this in future.</li>
+<li>Encourage people to take long vacations so they disconnect and richarge fully.</li>
+<li>Slack culture where you encouraged to mute all the notificaitons</li>
+<li>Regular feedback collection by tools like officevibe</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

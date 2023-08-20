@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Praveen</title>
+    <link>https://metapraveen.github.io/</link>
+    <description>Recent content on Praveen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 19 Aug 2023 12:55:13 +0200</lastBuildDate><atom:link href="https://metapraveen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macro Management</title>
+      <link>https://metapraveen.github.io/posts/macro-management/</link>
+      <pubDate>Sat, 19 Aug 2023 12:55:13 +0200</pubDate>
+      
+      <guid>https://metapraveen.github.io/posts/macro-management/</guid>
+      <description>At my current org work culture is nice and I have seen hardly anyone left in my team in last 4 years. One of the reason for this is the management style which I call macro management. I am trying to write down what is it and how it works.
+The goal of macro management is below
+Creating a non interruptive environment where people can do deep work which they enjoy.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://metapraveen.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://metapraveen.github.io/about/</guid>
+      <description>about me Hello,
+I’m Praveen Kumar, a software engineer from India currently living in Berlin.
+I like builing web applications using Ruby &amp;amp; TypeScript. I try to write here often about my learnings on tech/ work culture/ process and related things.
+You can reach out to me at praveen (dot) kumar at hey.com
+or twitter where I post about food and berlin life :)
+or collaborate with me on github https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
